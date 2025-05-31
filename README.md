@@ -1,6 +1,6 @@
 # Tableau Certified Data Analyst Study
 
-This repository contains my practice materials for the Tableau Certified Data Analyst certification, based on the Udemy course I'm working through. https://www.udemy.com/course/tableau-accelerate-your-career-and-get-certified/learn/
+This repository contains my practice materials for the Tableau Certified Data Analyst certification, based on the Udemy course I'm working through. https://www.udemy.com/course/tableau-accelerate-your-career-and-get-certified/learn/lecture/47573987#overview
 
 ## Contents
 
